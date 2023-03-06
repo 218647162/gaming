@@ -1,0 +1,145 @@
+D:\My Documents\roll ball\Temp\bin\Debug\Assembly-CSharp.dll
+D:\My Documents\roll ball\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEditor.dll
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.dll
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.UI.dll
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.VR.dll
+D:\My Documents\roll ball\Temp\bin\Debug\Mono.Cecil.dll
+D:\My Documents\roll ball\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\My Documents\roll ball\Temp\bin\Debug\Unity.DataContract.dll
+D:\My Documents\roll ball\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\My Documents\roll ball\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\My Documents\roll ball\Temp\bin\Debug\Unity.CecilTools.dll
+D:\My Documents\roll ball\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\My Documents\roll ball\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.xml
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEditor.xml
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.UI.xml
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\My Documents\roll ball\Temp\bin\Debug\UnityEngine.VR.xml
+D:\My Documents\roll ball\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\My Documents\roll ball\obj\Debug\Assembly-CSharp.dll
+D:\My Documents\roll ball\obj\Debug\Assembly-CSharp.pdb
+F:\roll ball\Temp\bin\Debug\Assembly-CSharp.dll
+F:\roll ball\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\roll ball\Temp\bin\Debug\UnityEditor.dll
+F:\roll ball\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\roll ball\Temp\bin\Debug\UnityEngine.dll
+F:\roll ball\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\roll ball\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\roll ball\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+F:\roll ball\Temp\bin\Debug\UnityEngine.UI.dll
+F:\roll ball\Temp\bin\Debug\UnityEngine.VR.dll
+F:\roll ball\Temp\bin\Debug\Mono.Cecil.dll
+F:\roll ball\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\roll ball\Temp\bin\Debug\Unity.DataContract.dll
+F:\roll ball\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\roll ball\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\roll ball\Temp\bin\Debug\Unity.CecilTools.dll
+F:\roll ball\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\roll ball\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\roll ball\Temp\bin\Debug\UnityEngine.xml
+F:\roll ball\Temp\bin\Debug\UnityEditor.xml
+F:\roll ball\Temp\bin\Debug\UnityEngine.UI.xml
+F:\roll ball\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\roll ball\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+F:\roll ball\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\roll ball\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\roll ball\Temp\bin\Debug\UnityEngine.VR.xml
+F:\roll ball\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\roll ball\obj\Debug\Assembly-CSharp.dll
+F:\roll ball\obj\Debug\Assembly-CSharp.pdb
+G:\roll ball\Temp\bin\Debug\Assembly-CSharp.dll
+G:\roll ball\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\roll ball\Temp\bin\Debug\UnityEditor.dll
+G:\roll ball\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\roll ball\Temp\bin\Debug\UnityEngine.dll
+G:\roll ball\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\roll ball\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\roll ball\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+G:\roll ball\Temp\bin\Debug\UnityEngine.UI.dll
+G:\roll ball\Temp\bin\Debug\UnityEngine.VR.dll
+G:\roll ball\Temp\bin\Debug\Mono.Cecil.dll
+G:\roll ball\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\roll ball\Temp\bin\Debug\Unity.DataContract.dll
+G:\roll ball\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\roll ball\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\roll ball\Temp\bin\Debug\Unity.CecilTools.dll
+G:\roll ball\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\roll ball\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\roll ball\Temp\bin\Debug\UnityEngine.xml
+G:\roll ball\Temp\bin\Debug\UnityEditor.xml
+G:\roll ball\Temp\bin\Debug\UnityEngine.UI.xml
+G:\roll ball\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\roll ball\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+G:\roll ball\Temp\bin\Debug\UnityEngine.Analytics.xml
+G:\roll ball\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\roll ball\Temp\bin\Debug\UnityEngine.VR.xml
+G:\roll ball\obj\Debug\Assembly-CSharp.dll
+G:\roll ball\obj\Debug\Assembly-CSharp.pdb
+G:\roll ball\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Tsepo\Desktop\game\roll ball\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Tsepo\Desktop\game\roll ball\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Tsepo\Desktop\game\roll ball\obj\Debug\Assembly-CSharp.dll
+C:\Users\Tsepo\Desktop\game\roll ball\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Tsepo\Desktop\pacman2020\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Tsepo\Desktop\pacman2020\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Tsepo\Desktop\pacman2020\obj\Debug\Assembly-CSharp.dll
+C:\Users\Tsepo\Desktop\pacman2020\obj\Debug\Assembly-CSharp.pdb

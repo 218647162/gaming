@@ -1,0 +1,31 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R2 Graphics (ID=0x98e4)
+    Vendor:   ATI
+    VRAM:     1063 MB
+    Driver:   25.20.14012.0
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\school work\pacman2020\roll_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\school work\pacman2020\roll_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\school work\pacman2020\roll_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\school work\pacman2020\roll_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\school work\pacman2020\roll_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\school work\pacman2020\roll_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\school work\pacman2020\roll_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\school work\pacman2020\roll_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\school work\pacman2020\roll_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\school work\pacman2020\roll_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\school work\pacman2020\roll_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\school work\pacman2020\roll_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.273 seconds
+Platform assembly: F:\school work\pacman2020\roll_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\school work\pacman2020\roll_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.774100 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5350 -> priority: 1 
